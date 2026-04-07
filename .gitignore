@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+scrape_assets/
+
+semantic_map.json
+data/
+*.jpg
+
+.git copy/
+.git copy\
